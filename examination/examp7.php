@@ -1,1 +1,14 @@
 <?php
+$value=1000;
+$p=1;
+while($p<=$value)
+{
+    $e=0;
+    for($j=1;$j<=$p;$j++)
+    {
+        if($p%$j==0)$e++;
+    }
+    if($e==2)echo($p)."<br>";
+    $p++;
+}
+?>
