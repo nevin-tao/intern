@@ -104,7 +104,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="examp9.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="examp9.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examination/examp9.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -114,11 +114,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="examp10.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="examp10.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examination/examp10.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -141,6 +141,7 @@
         <option value="$PROJECT_DIR$/examination/examp7.php" />
         <option value="$PROJECT_DIR$/examination/examp8.php" />
         <option value="$PROJECT_DIR$/examination/examp9.php" />
+        <option value="$PROJECT_DIR$/examination/examp10.php" />
       </list>
     </option>
   </component>
@@ -325,12 +326,12 @@
       <workItem from="1515577831436" duration="94000" />
       <workItem from="1515577968853" duration="5317000" />
       <workItem from="1515597547938" duration="5979000" />
-      <workItem from="1515634623635" duration="16344000" />
+      <workItem from="1515634623635" duration="18049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27961000" />
+    <option name="totallyTimeSpent" value="29666000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,7 +343,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18448023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -695,14 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examination/examp10.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examination/examp4.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -771,6 +764,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination/examp10.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
           <folding />
         </state>
       </provider>
