@@ -1,12 +1,13 @@
 <?php
-for ($i = 1; $i < 7; $i++) {
-    for ($j = 1; $j < 7; $j++) {
-        if ($j == 1) {
-            echo str_pad($i*$j, 2, " ", STR_PAD_LEFT);
+for ($j = 1; $j <= 6; $j++) {
+    for ($k = 1; $k <=6; $k++) {
+        if ($k == 1) {
+            echo str_pad($j*$k, 2, " ", STR_PAD_LEFT);
         } else {
-            echo str_pad($i*$j, 4, " ", STR_PAD_LEFT);
+            echo str_pad($j*$k, 4, " ", STR_PAD_LEFT);
         }
     }
     echo "\n";
+    echo "<br>";
 }
 ?>
