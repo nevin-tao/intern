@@ -13,5 +13,6 @@
         }
         echo "</tr>";
     }
+    $nbsp
     ?>
 </table>
