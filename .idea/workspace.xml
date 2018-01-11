@@ -61,21 +61,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="examp6.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="examp6.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examination/examp6.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="68">
+              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="examp7.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="examp7.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examination/examp7.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="17">
+              <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -125,6 +125,7 @@
         <option value="$PROJECT_DIR$/examination/examp4.php" />
         <option value="$PROJECT_DIR$/examination/examp5.php" />
         <option value="$PROJECT_DIR$/examination/examp6.php" />
+        <option value="$PROJECT_DIR$/examination/examp7.php" />
       </list>
     </option>
   </component>
@@ -289,12 +290,12 @@
       <workItem from="1515577992904" duration="30000" />
       <workItem from="1515578078084" duration="5019000" />
       <workItem from="1515595379655" duration="759000" />
-      <workItem from="1515634850986" duration="11843000" />
+      <workItem from="1515634850986" duration="13743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17878000" />
+    <option name="totallyTimeSpent" value="19778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="504" y="43" width="803" height="697" extended-state="0" />
@@ -645,14 +646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examination/examp7.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examination/examp8.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -719,8 +712,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examination/examp6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="68">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examination/examp7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           <folding />
         </state>
       </provider>
