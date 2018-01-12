@@ -1,18 +1,29 @@
 <?php
-    for($i=1;$i<=5;$i++){
-        for($h=1;$h<=$i;$h++){
-            echo"*";
-            if($i==$h){
-                echo"<br>";
-            }
+echo"<form action=\"\" method=\"post\" name=\"form1\">
 
+<input type=\"text\" name=\"Name\">
+
+<input name=\"btnSubmit\" type=\"submit\" value=\"Submit\">
+
+</form>";
+
+$p=$_POST['Name'];
+
+
+for($j=1;$j<=$p;$j++){
+    for($k=1;$k<=$j;$k++) {
+        echo "$k";
+        if($j==$k){
+            echo "<br>";
         }
+
     }
-for($i=5;$i>=1;$i--){
-    for($h=1;$h<=$i;$h++){
-        echo"*";
-        if($i==$h){
-            echo"<br>";
+}
+for($j=$p-1;$j>=1;$j--) {
+    for($k=1;$k<=$j;$k++) {
+        echo "$k";
+        if($j==$k){
+            echo "<br>";
         }
 
     }
