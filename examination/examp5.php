@@ -7,7 +7,6 @@ $ceu = array("Italy"=>"Rome","Luxembourg"=>"Luxembourg","Belgium"=>"Brussels","D
     "Austria"=>"vienna","poland"=>"Warsaw");
 ksort($ceu);
 
-
 foreach ($ceu as $key => $val) {
     echo "the capital of $key is $val <br>";
 }

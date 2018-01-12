@@ -8,7 +8,6 @@ echo"<form action=\"\" method=\"post\" name=\"form1\">
 </form>";
 $p=$_POST['txtSiteName'];
 
-
 for($j=1;$j<=$p;$j++){
     for($k=1;$k<=$j;$k++) {
             echo "$k";

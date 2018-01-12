@@ -8,7 +8,6 @@ for ($row=0; $row <7; $row++){
 
             echo "*";
         else
-
             echo "&nbsp;";
     }
     echo "<br>";

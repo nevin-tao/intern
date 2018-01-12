@@ -1,7 +1,7 @@
 
 <?php
 class MyCalculator {
-private $_fval, $_sval;
+private $_fval,$_sval;
 public function __construct( $fval, $sval ) {
 $this->_fval = $fval;
 $this->_sval = $sval;
