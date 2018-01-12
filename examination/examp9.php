@@ -20,10 +20,10 @@ return $this->_fval / $this->_sval;
 }
 }
 $mycalc = new MyCalculator(12, 6);
-echo $mycalc-> add()."<br>"; // Displays 18
-echo $mycalc-> multiply()."<br>"; // Displays 72
-echo $mycalc-> subtract()."<br>"; // Displays 6
-echo $mycalc-> divide()."<br>"; // Displays 2
+echo $mycalc-> add()."<br>";
+echo $mycalc-> multiply()."<br>";
+echo $mycalc-> subtract()."<br>";
+echo $mycalc-> divide()."<br>";
 ?>
 
 
